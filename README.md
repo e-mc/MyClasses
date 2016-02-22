@@ -32,5 +32,9 @@ return data as this pointer traverses a given list of sequences.
 Pair.java :
 The Pair class contains a character, key, and methods to get, set, or access them.
 
+Test6.java :
+One of the test files given for this assignment. Created by Professor Zhendong Su.
 
+Makefile :
+Compile .java files
 
